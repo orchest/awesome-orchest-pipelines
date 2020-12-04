@@ -14,4 +14,5 @@
 ##### Feel free to make a PR if you would like to have your work be part of this list.  
 
 Content: 
+- [sklearn regression of the california housing dataset (quickstart pipeline)](https://github.com/orchest/quickstart.git)
 - [image super resolution pipeline](https://github.com/fruttasecca/orchest_pipelines_examples) 
