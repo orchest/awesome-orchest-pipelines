@@ -16,3 +16,5 @@
 Content: 
 - [sklearn regression of the california housing dataset (quickstart pipeline)](https://github.com/orchest/quickstart.git)
 - [image super resolution pipeline](https://github.com/fruttasecca/orchest_pipelines_examples) 
+- [Scrape Frontend repos on GitHub pipeline](https://github.com/ricklamers/popular-frontend-github)
+- [Basic Julia, Python and R pipeline](https://github.com/ricklamers/orchest-multi-language-pipeline)
