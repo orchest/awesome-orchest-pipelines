@@ -26,3 +26,6 @@
 
 ### [Basic Julia, Python and R pipeline](https://github.com/ricklamers/orchest-multi-language-pipeline)
 ![Basic Julia, Python and R pipeline](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/orchest-multi-language-pipeline/blob/master/main.orchest)
+
+### [Natural Language Processing Demo](https://github.com/crushstorm/OrchestNLPDemo)
+![Natural Language Processing Demo](https://pviz.orchest.io/?pipeline=https://github.com/crushstorm/OrchestNLPDemo/blob/master/demo.orchest)
