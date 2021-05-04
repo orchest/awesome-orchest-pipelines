@@ -6,15 +6,23 @@
 <br/>
 
 [Website](https://www.orchest.io) —
+[Main repo](https://github.com/orchest/orchest) —
 [Docs](https://orchest.readthedocs.io/en/stable/) —
 [Quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html)
 
 ---
-##### A curated list of Orchest pipelines.  
-##### Feel free to make a PR if you would like to have your work be part of this list.  
+**A curated list of Orchest pipelines.**
 
-Content: 
-- [sklearn regression of the california housing dataset (quickstart pipeline)](https://github.com/orchest/quickstart.git)
-- [image super resolution pipeline](https://github.com/fruttasecca/orchest_pipelines_examples) 
-- [Scrape Frontend repos on GitHub pipeline](https://github.com/ricklamers/popular-frontend-github)
-- [Basic Julia, Python and R pipeline](https://github.com/ricklamers/orchest-multi-language-pipeline)
+**Feel free to make a PR if you would like to have your work be part of this list.**
+ 
+### [sklearn regression of the california housing dataset](https://github.com/orchest/quickstart.git)
+![sklearn regression of the california housing dataset](https://pviz.orchest.io/?pipeline=https://github.com/orchest/quickstart/blob/main/california_housing.orchest&v=2)
+
+### [Image super resolution](https://github.com/fruttasecca/orchest_pipelines_examples) 
+![Image super resolution](https://pviz.orchest.io/?pipeline=https://github.com/fruttasecca/orchest_pipelines_examples/blob/main/image-super-resolution/super_resolution_multiple.orchest)
+
+### [Scrape Frontend repos on GitHub](https://github.com/ricklamers/popular-frontend-github)
+![Scrape Frontend repos on GitHub](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/popular-frontend-github/blob/master/main.orchest)
+
+### [Basic Julia, Python and R pipeline](https://github.com/ricklamers/orchest-multi-language-pipeline)
+![Basic Julia, Python and R pipeline](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/orchest-multi-language-pipeline/blob/master/main.orchest)
