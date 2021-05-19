@@ -18,7 +18,9 @@
 
 To import one of the repos use the import dialog in Orchest.
 
-<img src="imgs/import-0.png" width="80%" />
+<div align="center">
+  <img src="imgs/import.png" width="80%" />
+</div>
 
  
 ### [sklearn regression of the california housing dataset](https://github.com/orchest/quickstart.git)
