@@ -19,7 +19,7 @@
 To import one of the repos use the import dialog in Orchest.
 
 <div align="center">
-  <img src="imgs/import.png" width="80%" />
+  <img src="imgs/import.png" width="100%" />
 </div>
 
  
