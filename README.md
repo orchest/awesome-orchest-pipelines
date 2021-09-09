@@ -11,6 +11,10 @@
 [Quickstart](https://orchest.readthedocs.io/en/stable/getting_started/quickstart.html)
 
 ---
+
+❗This repository has been archived, please refer to the
+[public examples repo](https://github.com/orchest/public-examples).
+
 **A curated list of Orchest pipelines.**
 
 **Feel free to make a PR if you would like to have your work be part of this list.**
